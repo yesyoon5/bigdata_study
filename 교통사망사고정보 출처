@@ -1,0 +1,15 @@
+주야
+발생지시도
+(발생지시군구 ex-경기 광주시)
+
+데이터 출처 : https://www.data.go.kr/dataset/15003493/fileData.do
+2016년_교통사망사고정보
+
+carCrush[4] # 주야 사망교통사고 빈도
+carCrush[5] # 요일별 사망교통사고 현황
+carCrush[11] # 발생시 지도
+
+carCrush[17] # 법규위반 Top 5
+
+carCrush[20] # 차종
+carCrush[21] # 차량크기
