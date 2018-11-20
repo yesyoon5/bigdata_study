@@ -1,0 +1,7 @@
+https://www.data.go.kr/information/NOTICE_0000000001391/notice.do
+
+1. 파일데이터 세부항목 : 제공기관명, 파일데이터명, 제공형태
+
+
+2. 오픈API 세부항목 : 제공기관명, 오픈API명, 서비스 유형
+
